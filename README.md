@@ -1,11 +1,13 @@
-Hi!
-I'm a dev.
+# Ice Is The Best
+###I'm a dev.
 I code in: 
 - TypeScript
 - JavaScript
-- Ruby
-- Go
-- HTML, CSS (classic)
+- Ruby, Rails
+- C++
+- Lua
+- HTML, CSS
 
 Also
 I live in Poland pls help me
+[Donate](https://paypal.me/carordev)
