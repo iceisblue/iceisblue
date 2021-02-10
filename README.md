@@ -23,3 +23,5 @@ Be nice and
 [Donate](https://paypal.me/carordev)
 
 ![Blicy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceisblue&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceisblue&repo=ProjectCODE)](https://github.com/anuraghazra/github-readme-stats)
