@@ -21,3 +21,5 @@ I live in Poland pls help me
 
 Be nice and
 [Donate](https://paypal.me/carordev)
+
+![Blicy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceisblue&show_icons=true&theme=radical&count_private=true)
