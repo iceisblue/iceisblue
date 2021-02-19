@@ -1,6 +1,6 @@
-# Ice Is The Best
-### I'm a dev.
-## I code in: 
+# 20thLineOfCode
+## I'm a programmer
+### I code in: 
 - TypeScript
 - JavaScript
 - Ruby, Rails
@@ -8,10 +8,10 @@
 - C
 - Lua
 - HTML, CSS
-## Stuff
+### Stuff
 - JS/TS isnt as good as C
 - Mozilla is amazing
-- I ❤️ Ubuntu
+- Die paid domains, hostings
 - Windows is trash
 - Blicy#4291
 - Free always the best
@@ -19,9 +19,9 @@
 Also
 I live in Poland pls help me
 
+Also https://linesofcode.tk
+
 Be nice and
 [Donate](https://paypal.me/carordev)
 
 ![Blicy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceisblue&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceisblue&repo=ProjectCODE)](https://github.com/anuraghazra/github-readme-stats)
