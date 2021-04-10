@@ -24,6 +24,6 @@ Also https://linesofcode.tk
 
 Be nice and
 [Donate](https://paypal.me/carordev)
-Or fund me a [cofee](https://ko-fi/linesofcode)
+Or fund me a [cofee](https://ko-fi.com/linesofcode)
 
 ![Blicy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceisblue&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)
